@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Prasad Jaware]
+# Hi there! 👋 I'm *Prasad Jaware*
 - B.Tech (IIT Kanpur) 2020-24 
 - SDE Intern (Fintract Global) Jun’23-Sep’23
 

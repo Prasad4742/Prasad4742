@@ -6,27 +6,15 @@ I'm a passionate software engineer with expertise in multiple programming langua
 
 ## Skills
 
-### Languages
-- C++
-- Java
-- Python
-- SQL
-- JavaScript
-
-### Frameworks & Libraries
-- React
-- Next.js
-- Grapes.js
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-
-### Tools & Utilities
-- Git
-- Linux
-- LATEX
-- MongoDB
+| Languages            | Frameworks & Libraries| Tools & Utilities     |
+|----------------------|-----------------------|-----------------------|
+| C++                  | React                 | Git                   |
+| Java                 | Next.js               | Linux                 |
+| Python               | Grapes.js             | LATEX                 |
+| SQL                  | NumPy                 | MongoDB               |
+| JavaScript           | Pandas                |                       |
+|                      | Scikit-learn          |                       |
+|                      | Matplotlib            |                       |
 
 ## Projects
 

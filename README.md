@@ -12,7 +12,7 @@ I'm a passionate software engineer with expertise in multiple programming langua
 | Java                 | Next.js               | Linux                 |
 | Python               | Grapes.js             | LATEX                 |
 | SQL                  | NumPy                 | MongoDB               |
-| JavaScript           | Pandas                |                       |
+|                      | Pandas                |                       |
 |                      | Scikit-learn          |                       |
 |                      | Matplotlib            |                       |
 
